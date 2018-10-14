@@ -10,6 +10,8 @@ Welcome to yaeh's Yeahhh documentation!
    :maxdepth: 2
    :caption: Contents:
 
+.. autoclass:: TT
+
 
 
 Indices and tables
